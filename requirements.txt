@@ -11,3 +11,6 @@ testbook==0.4.2
 
 pandas-profiling==3.1.0
 ipywidgets
+imbalanced-learn
+
+xgboost
